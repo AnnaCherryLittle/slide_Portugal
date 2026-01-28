@@ -1,0 +1,20 @@
+body {
+    background-color: #F5EDDC;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+#pictures {
+    width: 600px;
+}
+.btn {
+    background-color: #CFD2CF;
+    border: none;
+    color: #704F4F;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    padding: 10px;
+}
